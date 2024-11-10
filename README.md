@@ -130,8 +130,5 @@ If you spot any issues or have ideas for improvement, feel free to open a pull r
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/tyroprogrammer/learn-react-app/blob/master/LICENSE) file for details.
 
 ---
-![GitHub Last Commit](https://img.shields.io/github/last-commit/tyroprogrammer/learn-react-app)
-
----
 
 Happy coding!
