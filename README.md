@@ -1,7 +1,3 @@
-Here’s a refreshed version of your `README.md` with updated structure, improved clarity, and added formatting for a more user-friendly experience:
-
----
-
 # Learn React App
 
 <div align="center">
@@ -134,11 +130,6 @@ If you spot any issues or have ideas for improvement, feel free to open a pull r
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/tyroprogrammer/learn-react-app/blob/master/LICENSE) file for details.
 
 ---
-
-### Badges and Statistics
-
-![GitHub Stars](https://img.shields.io/github/stars/tyroprogrammer/learn-react-app?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/tyroprogrammer/learn-react-app?style=social)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/tyroprogrammer/learn-react-app)
 
 ---
