@@ -127,7 +127,7 @@ If you spot any issues or have ideas for improvement, feel free to open a pull r
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/tyroprogrammer/learn-react-app/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ayush-raj13/learn-react-app/blob/master/LICENSE) file for details.
 
 ---
 
