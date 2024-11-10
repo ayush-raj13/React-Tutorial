@@ -27,7 +27,7 @@
   "scripts": {
     "start": "NODE_OPTIONS=--openssl-legacy-provider npm run build:markdown && react-scripts start",
     "start:ts": "npm run build:markdown && REACT_APP_TS=true react-scripts start",
-    "build": "react-scripts build",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
     "test": "react-scripts test --passWithNoTests",
     "eject": "react-scripts eject",
     "build:markdown": "node scripts/processMarkdown"
