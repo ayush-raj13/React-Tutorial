@@ -25,7 +25,7 @@
     "typescript": "^3.4.5"
   },
   "scripts": {
-    "start": "npm run build:markdown && react-scripts start",
+    "start": "NODE_OPTIONS=--openssl-legacy-provider npm run build:markdown && react-scripts start",
     "start:ts": "npm run build:markdown && REACT_APP_TS=true react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --passWithNoTests",
